@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arhtur
+- 👋 Hi, I’m @Spinier
 - 🌱 I’m currently learning Full-Stack Development
 
 

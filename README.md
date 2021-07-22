@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spinier
+- 👋 Hi, I’m Arthur Shtein.
 - 🌱 I’m currently learning Full-Stack Development
 
 
